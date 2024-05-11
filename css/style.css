@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
+.bg--color{
+    background-color: #8c0b0b;
+}
+.color--{
+    color: #8c0b0b;
+}
+.color--white{
+    color: white;
+}
+.logo h4 {
+    font-family: 'Bowlby One SC', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+
+
+:root{
+    --mehroon: #8c0b0b;
+}
