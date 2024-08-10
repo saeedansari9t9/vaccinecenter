@@ -14,6 +14,7 @@ include("php/query.php")
 
     <!-- Title Page-->
     <title>Vaccine Center</title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/icon/vaccine-logo.png">
 
     <!-- Fontfaces CSS-->
     <link href="css/font-face.css" rel="stylesheet" media="all">

@@ -19,7 +19,7 @@ if(!isset($_SESSION["UserName"])) {
                         <option value="<?php echo $hospital_data['id'] ?>"><?php echo $hospital_data['h_name'] ?></option>
                     <?php
                 }
-                ?>
+            ?>
         </select>
     </div>
 
